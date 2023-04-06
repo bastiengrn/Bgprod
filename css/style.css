@@ -1692,7 +1692,7 @@ h6 { font-size: 16px; }
 	clear: both;
 	float: left;
 	position: relative;
-	margin-bottom: 250px;
+	margin-bottom: 0px;
 }
 .aali_tm_resume .content{
 	width: 100%;
@@ -2858,13 +2858,13 @@ input[type=number] {
 	.aali_tm_service .service_list ul li .list_inner{padding: 50px 30px;}
 	.aali_tm_service .service_list .title h3{font-size: 22px;}
 	.aali_tm_service .service_list .wrapper h3{font-size: 22px;}
-	.aali_tm_resume{margin-bottom: 130px;}
+	.aali_tm_resume{margin-bottom: 0px;}
 	.aali_tm_resume .content{padding-top: 105px;}
 	.aali_tm_resume .content_inner > ul{margin: 0px;}
 	.aali_tm_resume .content_inner > ul > li{width: 100%;padding-left: 0px;}
 	.aali_tm_resume .content_inner > ul > li{margin-bottom: 50px;}
 	.aali_tm_resume .content_inner > ul > li:last-child{margin-bottom: 0px;}
-	.aali_tm_resume .icon{display: inline-block;position: relative;top: 0px;left: 0px;margin-bottom: 10px;}
+	.aali_tm_resume .icon{display: inline-block;position: relative;top: 0px;left: 0px;margin-bottom: 0px;}
 	.aali_tm_resume .info{flex-direction: column;align-items: baseline;}
 	.aali_tm_resume .list .list_inner{padding-left: 0px;}
 	.aali_tm_testimonials ul li .text p{font-size: 19px;}
