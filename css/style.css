@@ -1692,7 +1692,6 @@ h6 { font-size: 16px; }
 	clear: both;
 	float: left;
 	position: relative;
-	margin-bottom: 0px;
 }
 .aali_tm_resume .content{
 	width: 100%;
@@ -1708,7 +1707,7 @@ h6 { font-size: 16px; }
 	float: left;
 }
 .aali_tm_resume .content_inner > ul{
-	margin: 0px 0px 0px -100px;
+	margin: 0px 0px 0px 0px;
 	list-style-type: none;
 }
 .aali_tm_resume .content_inner > ul > li{
@@ -1784,7 +1783,7 @@ h6 { font-size: 16px; }
 	font-size: 24px;
 	font-weight: 700;
 	letter-spacing: -.2px;
-	margin-bottom: 3px;
+	margin-bottom: 0px;
 }
 .aali_tm_resume .info .left span{
 	font-size: 18px;
